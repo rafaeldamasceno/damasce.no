@@ -3,6 +3,10 @@ languageCode: en-us
 title: Rafael Damasceno
 theme: ["PaperMod"]
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "I make software."
+  author: Rafael Damasceno
+  images: ["profile.jpg"]
   profileMode:
     enabled: true
     title: "I make software." # optional default will be site title
