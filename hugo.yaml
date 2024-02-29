@@ -13,8 +13,8 @@ params:
     subtitle: "Backend developer by day and all things tinkerer by night."
     imageUrl: "profile.jpg" # optional
     imageTitle: "Personal photo" # optional
-    imageWidth: 200 # custom size
-    imageHeight: 200 # custom size
+    imageWidth: 253 # custom size
+    imageHeight: 253 # custom size
     # buttons:
     #   - name: Archive
     #     url: "/archive"
