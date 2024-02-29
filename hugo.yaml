@@ -1,0 +1,25 @@
+baseURL: https://damasce.no/
+languageCode: en-us
+title: Rafael Damasceno
+theme: ["PaperMod"]
+params:
+  profileMode:
+    enabled: true
+    title: "I make software." # optional default will be site title
+    subtitle: "Backend developer by day and all things tinkerer by night."
+    imageUrl: "profile.jpg" # optional
+    imageTitle: "Personal photo" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    # buttons:
+    #   - name: Archive
+    #     url: "/archive"
+    #   - name: Github
+    #     url: "https://github.com/"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/rafaeldamasceno"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/rafaelrdamasceno"
+      
